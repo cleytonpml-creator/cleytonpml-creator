@@ -1,8 +1,7 @@
 # Olá, eu sou o Cleyton Pereira 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=.cleytonpml-creator&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Contador de Visitas" />
-</p>
+
 
 Sou desenvolvedor de software e estudante de **Cibersegurança**, focado na criação de aplicações web modernas, seguras e orientadas a resolver problemas reais do cotidiano. Tenho experiência no desenvolvimento de soluções completas unindo **Python (FastAPI)** no backend, **React** no frontend e boas práticas de proteção de dados.
 
